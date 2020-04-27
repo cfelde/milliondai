@@ -59,12 +59,12 @@ While we've above focused on the JSON files, if you'd like to interact directly 
 The MillionDAI contract is deployed under these addresses:
 
 * Kovan: 0x26b6739Fc3836A4442A7fC15d28fA0Abe15Dc4e0
-* Mainnet: TODO
+* Mainnet: 0xEe681CD9eD937700e859DA167676e2C730d037db
 
 The MillionDAI token contract is deployed under these addresses:
 
 * Kovan: 0x4f5A0aF1877A2D4E18B52B7854312db25F5C03c8
-* Mainnet: TODO
+* Mainnet: 0xC5535Fb98315EDD20F6ad1F8C9D0303D0b96f869
 
 ## MillionDAI CLI
 
