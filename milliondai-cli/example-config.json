@@ -1,0 +1,4 @@
+{
+  "web3url": "https://kovan.infura.io/v3/your-infura-project-id-here",
+  "accountKey": "YOUR PRIVATE KEY, DO NOT SHARE, REMOVE ENTRY IF ONLY DOING READS"
+}

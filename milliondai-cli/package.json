@@ -1,0 +1,26 @@
+{
+  "name": "milliondai-cli",
+  "version": "1.0.0",
+  "description": "Command line tool for interacting with The Million DAI contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfelde/milliondai.git"
+  },
+  "author": "Christian Felde",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/cfelde/milliondai/issues"
+  },
+  "homepage": "https://github.com/cfelde/milliondai#readme",
+  "dependencies": {
+    "@truffle/contract": "^4.2.2",
+    "@truffle/hdwallet-provider": "^1.0.34",
+    "bn.js": "^5.1.1",
+    "node-fetch": "^2.6.0",
+    "web3": "^1.2.7"
+  }
+}
