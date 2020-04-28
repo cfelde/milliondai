@@ -1,0 +1,26 @@
+{
+  "name": "milliondai-contract",
+  "version": "1.0.0",
+  "description": "Contracts used by The Million DAI Website",
+  "main": "",
+  "files": [
+    "/contracts/**/*.sol"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfelde/milliondai.git"
+  },
+  "author": "Christian Felde",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/cfelde/milliondai/issues"
+  },
+  "homepage": "https://milliondai.website",
+  "dependencies": {
+    "@openzeppelin/test-helpers": "^0.5.5",
+    "akap-utils": "^0.9.4"
+  }
+}
