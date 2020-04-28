@@ -5,6 +5,7 @@ Contracts used for The Million DAI Website.
 ## Install dependencies
 
 npm i akap-utils
+
 npm i @openzeppelin/test-helpers
 
 ## Run tests
