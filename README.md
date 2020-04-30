@@ -54,7 +54,7 @@ You can find the implementation for this under the picking-a-winner folder.
 
 ## Contract source code
 
-While we've above focused on the JSON files, if you'd like to interact directly with the contracts you can find them as a truffle project under the milliondai-contract folder. These contracts leverage the [AKA protocol](https://akap.me) for much of their functionality, but you do not need to consider this is you just want to interact with them directly.
+While we've above focused on the JSON files, if you'd like to interact directly with the contracts you can find them as a truffle project under the milliondai-contract folder. These contracts leverage the [AKA protocol](https://akap.me) for much of their functionality, but you do not need to consider this if you just want to interact with them directly.
 
 The MillionDAI contract is deployed under these addresses:
 
