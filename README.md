@@ -48,7 +48,7 @@ The process of picking winners is as follows:
 * Go though the weighted tile votes and select a tile at random
 * Using the selected tile, go through the weighted tile owners, and select an owner at random
 
-The selected owner is the winner of that round, with the process starting again. The next winner block is 45454 into the future.
+The selected owner is the winner of that round, with the process starting again. The next winner block is 45454 blocks into the future.
 
 You can find the implementation for this under the picking-a-winner folder.
 
