@@ -20,7 +20,7 @@
     "@truffle/contract": "^4.2.2",
     "@truffle/hdwallet-provider": "^1.0.34",
     "bn.js": "^5.1.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "web3": "^1.2.7"
   }
 }
